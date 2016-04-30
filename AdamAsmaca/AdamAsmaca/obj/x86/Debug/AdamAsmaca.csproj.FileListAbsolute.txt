@@ -1,0 +1,40 @@
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\Mert\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+D:\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+D:\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+D:\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\Mert\Downloads\AdamAsmaca (1)\AdamAsmaca\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\merve\Desktop\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
