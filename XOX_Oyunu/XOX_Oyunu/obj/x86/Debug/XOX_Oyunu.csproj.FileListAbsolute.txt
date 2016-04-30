@@ -1,0 +1,39 @@
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.pdb
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form1.resources
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Properties.Resources.resources
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.exe
+c:\users\necati\documents\visual studio 2010\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.pdb
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.exe
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.pdb
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.pdb
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form1.resources
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YL-Egitim\Downloads\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.exe
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.pdb
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.pdb
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form1.resources
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Properties.Resources.resources
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eğitim Fakültesi\Desktop\Yeni klasör\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form2.resources
+C:\Users\Eğitim Fakültesi\Desktop\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.exe
+C:\Users\Eğitim Fakültesi\Desktop\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.pdb
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.exe
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.pdb
+D:\Projects\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.exe
+D:\Projects\XOX_Oyunu\XOX_Oyunu\bin\Debug\XOX_Oyunu.pdb
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form1.resources
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Form2.resources
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.Properties.Resources.resources
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.csproj.GenerateResource.Cache
+D:\Projects\XOX_Oyunu\XOX_Oyunu\obj\x86\Debug\XOX_Oyunu.csprojResolveAssemblyReference.cache
